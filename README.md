@@ -1,1 +1,1 @@
-Projeto bem simples de JavaScrpt para realizar sorteios com um dado.
+Projeto simples em JavaScrpt para realizar sorteios com um dado.
